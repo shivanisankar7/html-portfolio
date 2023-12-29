@@ -1,8 +1,9 @@
 # html-portfolio
-A simple html project
-1.Name
-2.Role working in
-3.Project Name(Link to visit the projects done)
-4.Project Preview
-5.About Me Page
+**A SIMPLE HTML PORFOLIO**<hr/>
+**INGREDIENTS:**<br/>
+1.Name<br/>
+2.Role working in<br/>
+3.Project Name(Link to visit the projects done)<br/>
+4.Project Preview<br/>
+5.About Me Page<br/>
 6.Contact Me Page
